@@ -1,13 +1,13 @@
-Getting and cleaning data course Project assingment
+#Getting and cleaning data course Project assingment
 
 This respository is for the Coursera Getting and Cleaning Data project. 
 It has instructions on how to run the script on Human Activity recognition dataset 
 
-Data Set:	
+##Data Set:	
 
 Human Activity Recognition Using Smartphones (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-Files:
+##Files:
 
 •	CodeBook.md file is a code book that describes the variables, the data, transformations/ work that is performed to clean up the data
 •	run_analysis.R performs the steps required as described in the course project:
